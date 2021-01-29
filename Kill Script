@@ -1,0 +1,4 @@
+while( true )
+do
+	os.shutdown( true )
+end
