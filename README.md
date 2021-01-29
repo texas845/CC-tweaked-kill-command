@@ -7,6 +7,6 @@ A new kill script should be out within a month or two from the original posting 
 Within a year I plan to code a script that kills all computers on your rednet.
 I will inform everyone once this happens cause this could be unwanted in a test enviremont.
 To download look for the newest release which is currently 1.1 and get the txt file with the script:
-wget run https://github.com/texas845/CC-tweaked-kill-command/releases/download/Version1.1/killscript.1.1.txt                                                   
+           wget run https://github.com/texas845/CC-tweaked-kill-command/releases/download/Version1.1/killscript.1.1.txt                                                   
 this will result in the permenent death of your computer it is unavoidable
 Enjoy!
